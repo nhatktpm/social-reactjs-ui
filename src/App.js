@@ -3,7 +3,7 @@ import { Route, Switch } from 'react-router';
 import NotFound from './components/form-controls/NotFound';
 import SystemMainenance from './components/SystemMaintenance';
 import Login from './features/Login';
-import Posts from './features/Posts';
+// import Posts from './features/Posts';
 
 function App() {
   return (
